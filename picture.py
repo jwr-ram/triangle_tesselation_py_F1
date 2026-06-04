@@ -16,7 +16,7 @@ def draw_picture(width, height):
     TRIANGLE_WIDTH = width / 3
 
     # ==================================================================
-    # Draw the tesselation (you should only edit code below this part!)
+    # Draw the tesselation (you should only edit code below this part!)e
     # ==================================================================
     
     # code for RED triangles
